@@ -239,7 +239,7 @@ int main(int argc, const char * argv[]) {
         if (d == 0)     //如果输入中不含有上述三种符号，直接原样打印输出。
             putchar(c);
     }
-
+//再一次修改
     
     return 0;
 }
